@@ -3405,3 +3405,16 @@ input[type="button"].small,
     display: none;
   }
 }
+
+.repo_deplo {
+	border: 3px solid #4eb980;;
+	border-radius: 5px;
+	padding:5px;
+	transition-duration: .5s;
+}
+
+.repo_deplo:hover {
+	background-color: #4eb980;
+	color: white;
+	transition-duration: .5s;
+}
